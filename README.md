@@ -71,10 +71,6 @@
 
 <p align="center">
   <img height="160px" src="https://github-readme-streak-stats.herokuapp.com?user=kon-f&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=kon-f&show_icons=true&hide_border=true&theme=tokyonight" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kon-f&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
