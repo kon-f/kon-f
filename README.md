@@ -70,7 +70,7 @@
 ## 📊 GitHub Stats & Streaks
 
 <p align="center">
-  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com?user=kon-f&theme=tokyonight&hide_border=true" />
+  <img height="160px" src="https://streak-stats.demolab.com?user=kon-f&theme=tokyonight&hide_border=true" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kon-f&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
