@@ -1,24 +1,11 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e8cff,100:9c6bff&height=200&section=header&text=Hey%20I'm%20Kon!%20👋&fontSize=45&fontAlignY=35&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <b>Welcome to my GitHub — where I build things, debug things, and break things.  
+  <b>Welcome to my GitHub, where I build things, debug things, force push and prey.  
   Usually in that order. 😄</b>
 </p>
 
 ---
 
-##  About Me
-- 💬 I love creating projects just to see *if I can get them to work*  
-- 🔍 Exploring different stacks — APIs, web apps, mobile, data… whatever looks fun  
-- ☕ Most bugs disappear after coffee. The rest become features  
-- 🧪 Always experimenting, always learning  
-
----
-
-## 🏷️ Badges
+## Badges
 
 <p align="left">
 
@@ -33,6 +20,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 
   <!-- Databases -->
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
@@ -40,42 +28,27 @@
 
 ---
 
-## 🔧 Some Tech Stuff I Use
+## Some Tech Stuff I Use
 
-### 🧩 Programming Languages
+### Programming Languages
 - C#, Java, Python, JavaScript  
 - C, C++, Solidity  
 - Prolog, MATLAB  
 
-### 🖥️ Web / Backend
+### Web / Backend
 - .NET (ASP.NET Core)  
 - Node.js (Express)  
 - Jakarta Servlets  
 
-### 📱 Other Experience
+### Other Experience
 - Android (Java)  
 - HTML / CSS  
 
-### 🗄️ Databases
-- MySQL, PostgreSQL, SQLite, SQL Server  
-- MongoDB, Firebase  
+### Databases
+- SQL Server, MySQL, PostgreSQL, SQLite
+- Firebase, MongoDB  
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konstantinos-fronistas-software-engineer/)
-
----
-
-## 📊 GitHub Stats & Streaks
-
-<p align="center">
-  <img height="150px" src="https://git-hub-streak-stats.vercel.app?user=kon-f&theme=tokyonight" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kon-f&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9c6bff,100:4e8cff&height=120&section=footer" />
-</p>
