@@ -1,6 +1,5 @@
 <p align="center">
-  <b>Welcome to my GitHub, where I build things, debug things, force push and prey.  
-  Usually in that order. 😄</b>
+  <b>Welcome to my GitHub, where I build things, debug things, force push and prey.😄</b>
 </p>
 
 ---
